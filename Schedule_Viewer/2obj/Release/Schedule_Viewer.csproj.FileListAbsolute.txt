@@ -1,0 +1,13 @@
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\bin\Release\Schedule_Viewer.exe
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\bin\Release\Schedule_Viewer.pdb
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.Form1.resources
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.Properties.Resources.resources
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.exe
+C:\Documents and Settings\cstephe3\Desktop\Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.pdb
+J:\2Schedule_Viewer\Schedule_Viewer\obj\Release\ResolveAssemblyReference.cache
+J:\2Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.Form1.resources
+J:\2Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.Lookup_Form.resources
+J:\2Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.Properties.Resources.resources
+J:\2Schedule_Viewer\Schedule_Viewer\obj\Release\Schedule_Viewer.csproj.GenerateResource.Cache
