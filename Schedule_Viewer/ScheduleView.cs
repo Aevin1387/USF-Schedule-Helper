@@ -12,16 +12,42 @@ namespace Schedule_Viewer
 {
     public partial class ScheduleView : Form
     {
+        // define the widths for each colum
+        public const int SESSION_W = 60;
+        public const int COLLEGE_W = 50;
+        public const int DEPARTMENT_W = 50;
+        public const int REFERENCE_W = 40;
+        public const int COURSE_NUM_W = 72;
+        public const int SECTION_W = 40;
+        public const int COURSE_TYPE_W = 40;
+        public const int COURSE_TITLE_W = 200;
+        public const int CREDIT_HRS_W = 38;
+        public const int PERMIT_W = 35;
+        public const int STATUS_W = 40;
+        public const int STATUS2_W = 20;
+        public const int SEATS_OPEN_W = 40;
+        public const int SEATS_CAP_W = 40;
+        public const int SEATS_USED_W = 40;
+        public const int DAYS_W = 40;
+        public const int TIME_W = 110;
+        public const int BUILDING_W = 50;
+        public const int ROOM_W = 55;
+        public const int INSTRUCTOR_W = 100;
+        public const int CAMPUS_W = 50;
+        public const int DELIVERY_METHOD_W = 20;
+        public const int FEES_W = 100;
+
         List<Schedule_Record> Schedule;
         List<Schedule_Record> conflictingSchedule;
         // The class that will do the printing process.
         DataGridViewPrinter MyDataGridViewPrinter;
-        // session, college, dpt, ref, crn, sect, type, title, hour, permit, status, status2, open, cap, used, days, time, building, room, instructor, campus, method, fees
-        //int[] widths = { 55, 30, 30, 40, 65, 40, 80, 200, 40, 40, 40, 50, 40, 40, 40, 50, 120, 40, 50, 100, 50, 20, 100 };
 
-        // open, cap, used, days, time, building, room, instructor, campus, method, fees
-        //int[] widths = { 40, 40, 40, 50, 120, 40, 50, 100, 50, 20, 100 };
-        int[] widths = { 60, 40, 72, 40, 200, 38, 35, 40, 20, 40, 40, 40, 110, 50, 55, 100, 50, 100 };
+        // set the column widths
+        int[] widths = { SESSION_W, REFERENCE_W, COURSE_NUM_W, SECTION_W, COURSE_TITLE_W, 
+                         CREDIT_HRS_W, PERMIT_W, STATUS_W, STATUS2_W, SEATS_OPEN_W, 
+                         SEATS_CAP_W, DAYS_W, TIME_W, BUILDING_W, ROOM_W, INSTRUCTOR_W, 
+                         CAMPUS_W, FEES_W};
+
 
         public ScheduleView(List<Schedule_Record> passSchedule)
         {
