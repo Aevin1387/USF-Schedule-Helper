@@ -52,17 +52,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Schedule_Viewer.exe" size="87040">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Schedule_Viewer.exe" size="87552">
       <assemblyIdentity name="Schedule_Viewer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>BCojFaFhkFjHuuL73FRXdiF9vHs=</dsig:DigestValue>
+        <dsig:DigestValue>uN3xrdU2ZAkhSdgQ4g18qe37G1Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="CPOL.html" size="14059">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ekfy7IcRzhPME0W2pgAEDeA9HT4=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="favicon.ico" size="5686">
     <hash>
       <dsig:Transforms>

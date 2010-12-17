@@ -11,14 +11,14 @@
     <deploymentProvider codebase="http://gilead.hopto.org/Schedule_Viewer/Schedule_Viewer.application" />
   </deployment>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Schedule_Viewer.exe.manifest" size="4038">
+    <dependentAssembly dependencyType="install" codebase="Schedule_Viewer.exe.manifest" size="4408">
       <assemblyIdentity name="Schedule_Viewer.exe" version="1.0.0.17" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iC54DKFsec0Sua11/MpjiNA00hQ=</dsig:DigestValue>
+        <dsig:DigestValue>dKlbqw1i/alVTg5pjAs14GM11uk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
